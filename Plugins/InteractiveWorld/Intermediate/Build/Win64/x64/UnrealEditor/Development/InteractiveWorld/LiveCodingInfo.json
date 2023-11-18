@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InteractiveWorld.cpp.obj": [
+			"InteractBrush.gen.cpp.obj",
+			"InteractiveWorld.init.gen.cpp.obj",
+			"InteractiveWorldBPLibrary.gen.cpp.obj",
+			"InteractiveWorldSubsystem.gen.cpp.obj",
+			"WorldDrawingBoard.gen.cpp.obj",
+			"WorldInteractVolume.gen.cpp.obj",
+			"InteractBrush.cpp.obj",
+			"InteractiveWorld.cpp.obj",
+			"InteractiveWorldBPLibrary.cpp.obj",
+			"InteractiveWorldSubsystem.cpp.obj",
+			"WorldDrawingBoard.cpp.obj",
+			"WorldInteractVolume.cpp.obj"
+		]
+	}
+}
